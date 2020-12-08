@@ -34,6 +34,6 @@ docker build -t dockerid/reponame:tag .
 docker run -it -dp 3000:3000 dockerid/reponame:tag
 
 ```
-> pull directloy image
+> pull directly image
 docker run -it -dp 3000:3000 vamsichilukuri/cars-node-app:latest
 
