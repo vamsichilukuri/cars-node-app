@@ -34,5 +34,5 @@ docker build -t dockerid/reponame:tag .
 docker run -it -dp 3000:3000 dockerid/reponame:tag
 
 ```
-#pull directly image and test
+# pull directly image and test
 > docker run -it -dp 3000:3000 vamsichilukuri/cars-node-app:latest
